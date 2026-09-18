@@ -22,7 +22,5 @@ Python · SQL · R · Streamlit · Power BI · Git
 ## Links
 
 - 🌐 Portfolio: [nganho124.github.io](https://nganho124.github.io)
-- 📂 Projects: [nganho124.github.io/projects](https://nganho124.github.io/projects)
-- ✍️ Blog: [nganho124.github.io/blog](https://nganho124.github.io/blog)
 - 📧 nganho124@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/bao-ngan-ho/)
