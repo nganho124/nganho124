@@ -1,4 +1,4 @@
-# Hi, I'm Ngan Ho 👋
+# Hi, I'm Ngan Ho 👩‍💻
 
 **Data Analyst · Analytics, Modeling & Simulation**
 
