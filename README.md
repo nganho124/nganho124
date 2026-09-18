@@ -8,7 +8,7 @@
 - 💼 From there, I moved into **Supply Chain Consulting in Vietnam**, working on data-driven projects like network design and operational performance evaluation.
 - 🧑‍🎓 Now, I'm pursuing a **Master of Information Systems in Germany**, extending that foundation into data-driven and digital solutions.
 - 🌱 I'm currently learning **AI/ML** and exploring how it applies to real business processes - still a beginner here, more focused on practical application.
-- 🐱 And on a lighter note: I love cats, and I'm always up for a (e-)coffee chat about digitalization, AI applications, or Supply Chain (my home turf) - feel free to reach out!
+- 🐱 And just a lighter note: I love cats, and I'm always up for a (e-)coffee chat about digitalization, AI applications, or Supply Chain (still one of my favorite domains) - feel free to reach out!
 
 ## Currently
 
